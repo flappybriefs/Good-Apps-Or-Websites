@@ -2,7 +2,7 @@
 just a collection
 
 # 好玩的应用/网站
-由*飞天小胖次&SilentSilver*搜寻整理
+由*飞天小胖次*&*SilentSilver*搜寻整理
 
 ---
 ## 桌面端
