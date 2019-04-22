@@ -10,7 +10,7 @@ just a collection
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Webtorrent | 磁力链接在线播放 | [Webtorrent官网](https://webtorrent.io/)  | win | 2019年4月20日 | 2019年4月20日 | |
 | 箱盘姬工具箱 | 万能工具箱 | [贴吧](https://tieba.baidu.com/p/5533120272?red_tag=1550405199&pn=0&) | win | 2019年4月20日 | 2019年4月20日 | |
-| 百分浏览器 | 有强大的扩展插件[^详情见此[知乎链接](https://zhuanlan.zhihu.com/p/50907685)] | [百分浏览器官网](https://www.centbrowser.cn/) | win | 2019年4月20日 | 2019年4月20日 | |
+| 百分浏览器 | 有强大的扩展插件[^详情见此[知乎链接](https://zhuanlan.zhihu.com/p/50907685)] | 百分浏览器 | 扩展插件很强大 |[百分浏览器官网](https://www.centbrowser.cn/) | win | 2019年4月20日 | 2019年4月20日 | 扩展插件详情见此[知乎回答](https://zhuanlan.zhihu.com/p/50907685)|
 | BandZIP | 可右键预览的**无广告且免费**轻量强大解压工具 | [Badisoft官网](http://www.bandisoft.com/) | win&Mac | 2019年4月20日 |2019年4月20日| |
 |IDM|强大下载器|[IDM官网](http://www.internetdownloadmanager.com/)|win|2019年4月20日|2019年4月20日|支持HTTP/FTP，不支持磁力链接/种子|
 |MyDM|**磁力链接**下载器|[下载链接(非官网)](https://m.arpun.com/soft/74861.html)|win|2019年4月20日|2019年4月20日| |
