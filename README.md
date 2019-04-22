@@ -16,6 +16,9 @@ just a collection
 |IDM|强大下载器|[IDM官网](http://www.internetdownloadmanager.com/)|win|2019年4月20日|2019年4月20日|
 |MyDM|**磁力链接**下载器|[下载链接(非官网)](https://m.arpun.com/soft/74861.html)|win|2019年4月20日|2019年4月20日|
 |Qtranslate|免费屏幕划词翻译软件|[Qtranslate官网](https://qtranslate.en.softonic.com/)|win|2019年4月20日|2019年4月20日|
+|Mos|一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板|[Github](https://github.com/Caldis/Mos/releases)|Mac|2019年4月21日|2019年4月21日|
+|QuickLook|一款在Windows下实现macOS预览效果的软件|[MS Store](https://www.microsoft.com/zh-cn/p/quicklook/9nv4bs3l1h4s)|win|2019年4月21日|2019年4月21日|
+
 
 ---
 ## 移动端
