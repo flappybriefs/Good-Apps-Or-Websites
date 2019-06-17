@@ -24,6 +24,7 @@ just a collection
 |SpaceSniffer|将内存占用以拼图形式直观呈现|[小众软件](https://www.appinn.com/spacesniffer/)|win|2019年4月22日|2019年4月22日| |
 |分区助手|国产优秀免费调整分区软件|[分区助手官网](http://www.disktool.cn/)|win|2019年4月22日|2019年4月22日| |
 |Honeyview|无广告无弹窗简洁迅速图片查看器|[Honeyview官网](http://www.bandisoft.com/honeyview/)|win|2019年4月22日|2019年4月22日| |
+|Dynamo|支持在线视频跳过广告&倍速播放的Safari插件|[Mac App Store](https://apps.apple.com/cn/app/dynamo/id1445910651?mt=12)|win|2019年6月17日|2019年6月17日| |
 
 ---
 ## 移动端
